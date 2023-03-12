@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.center {
+  text-align: center;
+}
+
+nav a{
+     padding-left: 10px;
+     padding-right: 10px;
+     background-color: grey;
+}
+
+figure {
+  text-align: center;
+  font-size: small;
+}
+
+forma p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: center;
+}
+
+divfloat div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  font-size: small;
+}
